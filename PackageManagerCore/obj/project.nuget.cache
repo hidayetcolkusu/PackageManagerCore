@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "qCr9WlZCe1cfKE5l/XH+5+hqazMo6eU8UruSo3uMrA+2ygx2DYx3Yj96gN9rHdHK/4jze7XYvI7mSDMQe6gvEg==",
+  "success": true,
+  "projectFilePath": "D:\\Hidayet\\MyRepos\\ComManagers\\PackageManagerCore\\PackageManagerCore\\PackageManagerCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hidayet.colkusu\\.nuget\\packages\\checksummanagercore\\1.0.0\\checksummanagercore.1.0.0.nupkg.sha512",
+    "C:\\Users\\hidayet.colkusu\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

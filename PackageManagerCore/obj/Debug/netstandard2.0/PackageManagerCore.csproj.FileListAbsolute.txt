@@ -1,0 +1,8 @@
+D:\Hidayet\MyRepos\ComManagers\PackageManagerCore\PackageManagerCore\bin\Debug\netstandard2.0\PackageManagerCore.deps.json
+D:\Hidayet\MyRepos\ComManagers\PackageManagerCore\PackageManagerCore\bin\Debug\netstandard2.0\PackageManagerCore.dll
+D:\Hidayet\MyRepos\ComManagers\PackageManagerCore\PackageManagerCore\obj\Debug\netstandard2.0\PackageManagerCore.AssemblyInfoInputs.cache
+D:\Hidayet\MyRepos\ComManagers\PackageManagerCore\PackageManagerCore\obj\Debug\netstandard2.0\PackageManagerCore.AssemblyInfo.cs
+D:\Hidayet\MyRepos\ComManagers\PackageManagerCore\PackageManagerCore\obj\Debug\netstandard2.0\PackageManagerCore.csproj.CoreCompileInputs.cache
+D:\Hidayet\MyRepos\ComManagers\PackageManagerCore\PackageManagerCore\bin\Debug\netstandard2.0\PackageManagerCore.pdb
+D:\Hidayet\MyRepos\ComManagers\PackageManagerCore\PackageManagerCore\obj\Debug\netstandard2.0\PackageManagerCore.dll
+D:\Hidayet\MyRepos\ComManagers\PackageManagerCore\PackageManagerCore\obj\Debug\netstandard2.0\PackageManagerCore.pdb
